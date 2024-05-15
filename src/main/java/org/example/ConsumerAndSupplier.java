@@ -5,12 +5,7 @@ import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 public class ConsumerAndSupplier {
-    static
-
-
-    public static void main(String[] args) {
-
-    }
+    public static void main(String[] args) {}
 }
 
 class CLIArguments {
