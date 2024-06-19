@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30b7ecd2-bfef-423a-854c-6a14ac0479e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntermediateOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectorsA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   "keyToString": {
     "Application.AgeUtils.executor": "Run",
     "Application.Chaining.executor": "Run",
+    "Application.CollectorsA.executor": "Run",
     "Application.FunctionComposition.executor": "Run",
     "Application.Inference.executor": "Run",
     "Application.IntermediateOperations.executor": "Run",
@@ -54,9 +55,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IntermediateOperations">
-    <configuration name="FunctionComposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.FunctionComposition" />
+  <component name="RunManager" selected="Application.CollectorsA">
+    <configuration name="CollectorsA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CollectorsA" />
       <module name="FunctionalJava" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectorsA" />
         <item itemvalue="Application.IntermediateOperations" />
         <item itemvalue="Application.ReferenceMethods" />
         <item itemvalue="Application.Lambda" />
         <item itemvalue="Application.Inference" />
-        <item itemvalue="Application.FunctionComposition" />
       </list>
     </recent_temporary>
   </component>
